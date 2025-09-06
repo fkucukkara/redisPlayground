@@ -188,7 +188,7 @@ dotnet run --project RedisPlayground.AppHost
 
 #### 🌐 **Access Points**
 
-| � **Service** | 🌍 **URL** | 📝 **Description** |
+| 🎛️ **Service** | 🌍 **URL** | 📝 **Description** |
 |----------------|------------|---------------------|
 | **🎛️ Aspire Dashboard** | http://localhost:15000 | Service orchestration & monitoring |
 | **📖 API Documentation** | *Check dashboard for URL* + `/swagger` | Interactive OpenAPI docs |
@@ -668,7 +668,7 @@ volumes:
 
 ## 📚 Resources
 
-### � **Official Documentation**
+### 📖 **Official Documentation**
 
 <table>
 <tr>
@@ -780,7 +780,6 @@ flowchart TD
 | 🌐 **Platform** | 🎯 **Purpose** | 🔗 **Link** |
 |------------------|----------------|-------------|
 | **GitHub Issues** | Bug reports, feature requests | [Create Issue](https://github.com/fkucukkara/RedisPlayground/issues) |
-| **Discussions** | Questions, ideas, showcases | [Join Discussion](https://github.com/fkucukkara/RedisPlayground/discussions) |
 | **Redis Community** | Redis-specific help | [Redis Discord](https://discord.gg/redis) |
 | **.NET Community** | .NET & Aspire support | [.NET Discord](https://discord.gg/dotnet) |
 
